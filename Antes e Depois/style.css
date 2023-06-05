@@ -1,0 +1,16 @@
+.btn{
+    padding: 25px;
+    margin: 20px;
+}
+
+nav{
+    background-color: rgb(227, 240, 235);
+    text-align: center;
+    padding: 15px;
+    margin: 200px;
+    border-radius: 23px;
+}
+
+body{
+    background-color: rgb(252, 165, 66);
+}
